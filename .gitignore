@@ -1,0 +1,17 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Arquivos sensíveis / Credenciais (NÃO SUBIR PRO GITHUB!)
+credentials.json
+.env
+
+# Pastas geradas pelo PyInstaller (build)
+build/
+dist/
+*.spec
+
+# Pastas de cache do Python
+__pycache__/
+*.pyc
